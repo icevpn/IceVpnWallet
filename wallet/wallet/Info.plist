@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>TT Hoves Pro Trial ExtraBold.ttf</string>
+		<string>TT Hoves Pro Trial Light Italic.ttf</string>
+		<string>TT Hoves Pro Trial Black.ttf</string>
+		<string>TT Hoves Pro Trial Regular.ttf</string>
+		<string>TT Hoves Pro Trial ExtraLight Italic.ttf</string>
+		<string>TT Hoves Pro Trial DemiBold.ttf</string>
+		<string>TT Hoves Pro Trial Variable.ttf</string>
+		<string>TT Hoves Pro Trial Italic.ttf</string>
+		<string>TT Hoves Pro Trial DemiBold Italic.ttf</string>
+		<string>TT Hoves Pro Trial ExtraLight.ttf</string>
+		<string>TT Hoves Pro Trial Thin Italic.ttf</string>
+		<string>TT Hoves Pro Trial Thin.ttf</string>
+		<string>TT Hoves Pro Trial Medium.ttf</string>
+		<string>TT Hoves Pro Trial Bold.ttf</string>
+		<string>TT Hoves Pro Trial Medium Italic.ttf</string>
+		<string>TT Hoves Pro Trial ExtraBold Italic.ttf</string>
+		<string>TT Hoves Pro Trial Black Italic.ttf</string>
+		<string>TT Hoves Pro Trial Hairline.ttf</string>
+		<string>TT Hoves Pro Trial Light.ttf</string>
+		<string>TT Hoves Pro Trial Hairline Italic.ttf</string>
+		<string>TT Hoves Pro Trial Bold Italic.ttf</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+</dict>
+</plist>

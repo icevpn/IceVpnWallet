@@ -1,0 +1,499 @@
+/* 
+  Localizable.strings
+  ICE VPN
+
+  Created by HaydenYe on 2023/5/22.
+  
+*/
+
+// mine
+"LocalMineNode" = "Choose a node";
+"LocalMineLanguage" = "Choose a language";
+"LocalMineTerms" = "Terms of use";
+"LocalMinePrivacy" = "Privacy policy";
+"LocalMineHelp" = "Help and support";
+"LocalMineVersion" = "Version";
+"LocalMineLogout" = "Log out";
+"LocalMineLogoff" = "Remove Account";
+"LocalProfileTitle" = "Profile";
+"LocalProfileName" = "Set Username";
+"LocalProfilePwd" = "Set Password";
+"LocalNickName" = "Username";
+"LocalProfileOldPwd" = "Old Password";
+"LocalProfileNewPwd" = "New Password";
+"LocalBindReward" = "Reward";
+"LocalRewardTitle" = "Invite Friends To Get Permanent Free Time";
+"LocalRewardDesc" = "After your friend installs ice vpn, fill in your referrer id to count as a successful referral. You and the invited friend each add 30 minutes of free membership time per day (permanently valid)";
+"LocalInvitationCode" = "Invitation Code";
+"LocalInvitationPaid" = "Paid Friends";
+"LocalInvitationFree" = "Free Friends";
+"LocalInvitationTotal" = "Invite Friends";
+"LocalDurationDay" = "Daily Duration";
+"LocalGetCommission" = "Get Commission";
+"LocalTokenReward" = "Token Reward";
+"LocalMyInvitation" = "My Invitation";
+"LocalCopyCode" = "Share Link";
+"LocalQRShare" = "QR code sharing";
+"LocalBindTitle" = "Bind Referees";
+"LocalBindButton" = "Binding";
+"LocalShareTitle1" = "One-click to open Web3.0 encrypted life";
+"LocalShareTitle2" = "Privacy encryption · Wireless bandwidth · Payment security · Ultra-high performance";
+"LocalShareDesc" = "
+Download ICE VPN and enjoy multiple benefits
+
+Fill in the friend id, and share the permanent free time with your friends
+
+Time-limited commission, waiting for you to come and get it
+";
+"LocalShareScan" = "Scan to download";
+"LocalRebateAddress" = "Rebate address";
+
+// vpn
+"LocalVPNTitle" = "ICE VPN";
+"LocalVPNProtocol" = "Protocol selection";
+"LocalSwitchLeft" = "Speed mode";
+"LocalSwitchRight" = "Global mode";
+"LocalConnectButton" = "Connect";
+"LocalDisconnectButton" = "Disconnect";
+"LocalEndPointTitle" = "Location";
+"LocalPayingSection" = "VIP";
+"LocalFreeSection" = "Free";
+"LocalVipButton" = "Upgrade to Premium immediately";
+"LocalVPNProtect" = "Online privacy | unprotected";
+"LocalVPNProtected" = "Online privacy | Under protection";
+"LocalVPNPosition" = "Visible position";
+"LocalVPNIP" = "IP address";
+"LocalIPReal" = "Real: ";
+"LocalIPHide" = "hide";
+"LocalIPTip" = "Connect to  VPN, Hide your IP";
+"LocalIPPresent" = "At present：";
+"LocalConnectionTime" = "Connection time";
+"LocalConnectionTitle" = "Connection details";
+"LocalNodeTitle1" = "Your location has been exposed";
+"LocalNodeTitle2" = "Your privacy is protected";
+"LocalNodeDetail1" = "· The IP address is the number assigned to your device to display your location information. Now, stalkers and hackers on the network can see your IP.";
+"LocalNodeDetail2" = "· You can connect to a VPN to hide your location.";
+"LocalNodeDetail3" = "· You can also turn on IP rotator to periodically change your IP address, thus, Get better privacy protection online.";
+"LocalNodeDetail4" = "· Now, your IP is hidden from stalkers and hackers,and you appear to be browsing the Web from somewhere else in the world";
+"LocalNodeKnownButton" = "I know";
+"LocalUpgradedTitle" = "Congratulations on your successful upgrade";
+"LocalUpgradeTitle" = "Upgrade Node";
+"LocalUpgradeDesc1" = "Upgrade to Premium immediately";
+"LocalUpgradeDesc2" = "Access to all servers worldwide, fast and powerful";
+"LocalUpgradeTip1" = "Pure and unadvertised";
+"LocalUpgradeTip1Desc" = "Enjoy surfing without annoying ads";
+"LocalUpgradeTip2" = "Faster connections";
+"LocalUpgradeTip2Desc" = "Increase connection speed";
+"LocalUpgradeTip3" = "All servers are available";
+"LocalUpgradeTip3Desc" = "Access to all servers worldwide";
+"LocalFreeTimeMin" = "%smin left";
+"LocalFreeTimeDay" = "%sday left";
+"LocalNOFreeTime" = "Please renew";
+"ai" = "AI Node";
+"SG" = "Singapore";
+"HK" = "Hongkong";
+"US" = "U.S.";
+"AU" = "Australia";
+"MY" = "Malaysia";
+"IN" = "India";
+"JP" = "Japan";
+"UK" = "U.K.";
+
+// login
+"LocalLoginTitle" = "Welcom to ICE";
+"LocalLoginTitleDesc" = "Login to your exclusive account";
+"LocalLoginEmail" = "Email *";
+"LocalLoginEmailDesc" = "Email";
+"LocalLoginPassword" = "Password *";
+"LocalLoginPasswordDesc" = "Password";
+"LocalLoginButton" = "Login";
+"LocalForgetButton" = "Forgot your password?";
+"LocalRegisterDesc" = "Don't have a dedicated account yet? Register";
+"LocalRegisterTitleDesc" = "Register an account";
+"LocalRegisterPasswordDesc" = "Password(6-16 characters, letters and numbers)";
+"LocalRegisterReferrer" = "Referral";
+"LocalRegisterReferrerDesc" = "Please enter referral ID";
+"LocalRegisterButton" = "Register";
+"LocalLoginDesc" = "You already have your own account? Sign in now";
+"LocalForgetPasswordTitle" = "Forgot Password?";
+"LocalNextButton" = "Next";
+"LocalOTPTitle" = "OTP Code";
+"LocalOTPTitleDesc" = "We will send the OTP code to your email for security forgetting your password";
+"LocalOTPTip" = "Code has been send to";
+"LocalOTPResend" = "Reseend code in";
+"LocalResetTitleDesc" = "Create a new password";
+"LocalNewPassword" = "New Password *";
+"LocalConfirmPassword" = "Confirm New Password *";
+"LocalSaveButton" = "Save";
+
+// wallet
+"LocaSearchOrInputWebAddress" = "Search or enter a Dapp address";
+"LocaNotData" = "No content yet";
+"LocalDappRiskSure" = "No prompt";
+"LocalDetail" = "Detail";
+"LocalRequestDappTitle" = "You are accessing third-party DApp";
+"LocalDappRiskContent1" = "DApp is controlled by the project team, please check carefully when using DApp and verify the payout address or contract address;";
+"LocalDappRiskContent2" = "Your use of the DApp will be governed by the DAPP's relevant agreements and policies, and the %s will be solely responsible to you.";
+"LocalCancle" = "Cancle";
+"LocalConfirm" = "Confirm";
+"LocalRecently" = "Recent";
+"LocalRecommended" = "Recommendation";
+"LocalHistoryRecord" = "Historical record";
+"LocalPayPassword" = "Password";
+"LocalSendAddress" = "Sending address";
+"LocalReviceAddress" = "Receiving address";
+"LocalInputMnemonicAndSpace" = "Enter privateKey or mnemonic words";
+"LocalCurrentPassword" = "Current password";
+"LocalNewPassword" = "New password";
+"LocalWalletPasswordFormatError" = "Please enter a 6-digit numeric password.";
+"LocalPasswordError" = "Wrong password";
+"LocalDifferentPassword" = "Two different password entries";
+"LocalPasswordUpdateSuccess" = "Modified successfully";
+"LocalMenmonicValidationFail" = "Mnemonic verification failed";
+"LocalWallet" = "Wallet";
+"LocalWalletPasswprd" = "Wallet password";
+"LocalCreateWallet" = "Create a wallet";
+"LocalImportWallet" = "Import Ethereum wallet";
+"LocalTransferSuccess" = "Transfer successful";
+"LocalCreate" = "Create";
+"LocalSetWalletName" = "Set wallet name";
+"LocalOutPutPrompt" = "Exiting wallet will delete all wallet data, and be sure that all wallets are backed up";
+"LocalCopyAddress" = "Copy address";
+"LocalCreateTips" = "Ice Wallet - A crypto wallet for blockchain apps and NFTs";
+"LocalPleaseWalletName" = "Please enter wallet name";
+"LocalBackupMnemonic" = "Backup mnemonic";
+"LocalBackupMnemonicTips1" = "The mnemonic is used to restore the wallet or reset the password of the wallet, write it down accurately on paper, and store it in a safe place that only you know";
+"LocalBackupMnemonicTips2" = "1. Do not disclose the mnemonic to anyone\n2. Once the mnemonic is lost, the assets will not be recovered\n3 Do not backup and save by screenshot or network transmission\n4. In any case, please do not uninstall the wallet app easily";
+"LocalReceive" = "Receive";
+"LocalScanReceive" = "Scan address to receive payment";
+"LocalSendTo" = "Send To";
+"LocalAmount" = "Amount";
+"LocalAll" = "All";
+"LocalReceiveAddress" = "Receiving payment address";
+"LocalInputReceiveAddress" = "Please enter the receiving payment address";
+"LocalDidNotGetFee" = "If don't get the miner fee, please try again later";
+"LocalWalletName" = "Wallet name";
+"LocalMnemonicOrPrivateKey" = "Mnemonic Or PrivateKey";
+"LocalMnemonicError" = "Invalid mnemonic, please re-enter";
+"LocalMnemonicOrPrivateKeyError" = "Invalid private key or mnemonic, please re-enter!";
+"LocalWalletAddress" = "Wallet Address";
+"LocalExportPrivateKey" = "Export PrivateKey";
+"LocalUpdatePassword" = "Update Password";
+"LocalForgetPassword" = "Forget Password";
+"LocalExportMnemonic" = "Export Mnemonic";
+"LocalExportPrivateKeyTips" = "Do not transmit through network tools, once acquired by hackers will cause irreparable loss of assets. It is recommended that offline device is transmitted by scanning QR code.";
+"LocalCopy" = "Copy";
+"LocalManage" = "Manage";
+"LocaConfimPassword" = "Confirm Password";
+"LocalExitWallet" = "Exit the Wallet";
+"LocalBindTips" = "Wallet %s is successfully bound";
+"LocalMainNetwork" = "Network";
+"LocalBackupVerification" = "Validate backups";
+"LocalWalletBindOtherAccount" = "The wallet has been bound by %s, and the purchase of VIP NFT will not belong to the current account, please be informed";
+// http
+"LocalHttpDownloadError" = "File is not exist.";
+
+// alert
+"LocalAlertLoginTitle" = "You have loggeed in succcessfully";
+"LocalAlertContinue" = "Continue";
+"LocalAlertCancel" = "Cancel";
+"LocalAlertRegisterTitle" = "You have sighed in succcessfully";
+"LocalAlertResetPwdTitle" = "Create a new password succcessfully";
+"LocalAlertLogoutTitle" = "You have loggeed out succcessfully";
+"LocalAlertLogoffTitle" = "You have removed account succcessfully";
+"LocalAlertSetNameTitle" = "You have seted name succcessfully";
+"LocalAlertSetPwdTitle" = "You have seted password succcessfully";
+"LocalAlertBindTitle" = "You have binded referees succcessfully";
+
+// error
+"LocalOTPError" = "Send OTP code failed";
+"LocalOTPVerifyError" = "OTP code is error";
+"LocalRegisterError" = "Sigh in failed";
+"LocalLoginError" = "Log in failed";
+"LocalResetPwdError" = "Create a new password failed";
+"LocalLogoutError" = "Log out failed";
+"LocalLogoffError" = "Remove account failed";
+"LocalSetNameError" = "Set name failed";
+"LocalSetPwdError" = "Set password failed";
+"LocalPayError" = "Purchase failed";
+"LocalBindError" = "Bind referees failded";
+
+/// text
+"LocalTermText" = "
+Terms and Conditions (Summary)
+
+We value your online freedom, but we must impose specific terms and conditions to comply with the law and protect other users and our services. For your convenience, we have listed a summary of the main terms below. Please read and understand the complete terms before proceeding.
+
+You may not use Ice for any illegal purpose.
+
+Although Ice is adept at bypassing network restrictions, there are restrictions in our terms and conditions for using it for illegal purposes.
+
+The service is provided as is.
+
+You are solely responsible for everything you do while using Ice, and you are solely responsible for any damage or loss resulting from your use/misuse.
+
+Terms and Conditions (Full)
+
+Welcome to the services of Ice Lab Group Ltd (hereinafter referred to as Ice)! This user agreement (hereinafter referred to as Agreement) is a legal agreement between you and Ice. Before using our services, please read and agree to all the terms of this Agreement. If you do not agree to any terms of this Agreement, please do not use our services. This Agreement sets forth the general terms and conditions governing your use of the Ice mobile application and any products or services provided (collectively referred to as the mobile application or services).
+
+Backup
+
+We are not responsible for the content residing in the mobile application. In no event shall we be liable for any loss of content. It is your sole responsibility to maintain proper backups of the content. Notwithstanding the foregoing, in certain circumstances and without any obligation whatsoever, we may restore a portion or all of the data deleted by you on a date and time, as we may have backed up the data for our own purposes. We do not guarantee that the data you require will be available.
+
+Who Can Use This App
+
+You must be 18 years of age or the legal age in your jurisdiction to access this application and the services provided. The application and services provided are for your personal, non-commercial use only. You agree that the company is not responsible or liable for any loss, damage, injury, or other matter arising out of or related to your interaction with the application or services. By using the application or services, you represent and warrant that: (a) you are not a resident of the United States, China (Mainland), Cuba, Crimea and Sevastopol, Iran, Afghanistan, Syria, North Korea, Antigua and Barbuda, Hong Kong, Thailand, Malaysia, India, or Ontario, Canada; and (b) your access and use of the application and services are lawful.
+
+Links to Other Mobile Applications
+
+Although this mobile application may link to other mobile applications, we do not directly or indirectly imply any approval, association, sponsorship, endorsement or affiliation with any linked mobile application unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of any businesses or individuals or the content of their mobile applications. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any mobile applications accessed through this mobile application. The risks associated with connecting to any other external mobile application are borne solely by you.
+
+Prohibited Uses
+
+Except as otherwise explicitly provided in this Agreement, you may not use the Mobile Application or its contents: (a) for any illegal purpose; (b) to solicit others to perform or participate in any illegal acts; (c) to violate any international, federal, provincial or state regulations, rules, laws or local ordinances; (d) to infringe upon or violate our or third party's intellectual property rights; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or any related Mobile Application, other Mobile Applications or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related Mobile Application, other Mobile Applications or the Internet. We reserve the right to terminate your use of the Service or any related Mobile Application for violating any of the prohibited uses.
+
+Intellectual Property
+
+This Agreement does not transfer to you any intellectual property owned by Ice Lab Group Ltd or third parties, and all right, title, and interest in and to such property will remain (as between the parties) solely with Ice Lab Group Ltd. All trademarks, service marks, graphics and logos related to our Mobile Application or Services are trademarks or registered trademarks of Ice Lab Group Ltd or Ice Lab Group Ltd licensors. Other trademarks, service marks, graphics and logos related to our Mobile Application or Services may be the trademarks of other third parties. Your use of our Mobile Application and Services does not grant you any right or license to reproduce or otherwise use any Ice Lab Group Ltd or third-party trademarks.
+
+Disclaimer of Warranties
+
+You agree that your use of our Mobile Application or Services is entirely at your own risk. The Service is provided on an AS IS and AS AVAILABLE basis. We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement. We do not warrant that the Service will meet your requirements, or that the Service will be uninterrupted, timely, secure, or error-free; nor do we make any warranty as to the results that may be obtained from the use of the Service or the accuracy or reliability of any information obtained through the Service, or that defects in the Service will be corrected. You understand and agree that any material and/or data downloaded or otherwise obtained through the use of the Service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download of such material and/or data. No advice or information, whether oral or written, obtained by you from us or through the Service shall create any warranty not expressly stated in this Agreement.
+
+Limitation of Liability
+
+To the fullest extent permitted by applicable law, in no event shall Ice Lab Group Ltd, its affiliates, senior officers, directors, employees, agents, suppliers, or licensors be liable to any person for any indirect, incidental, special, punitive, cover or consequential damages (including but not limited to damages for lost profits, revenue, sales, goodwill, use or content, impact on business, business interruption, expected savings loss, or business opportunity loss) arising out of or relating to any liability whatsoever, whether in contract, tort (including negligence), warranty, breach of statutory duty, or otherwise, even if Ice Lab Group Ltd has been advised of the possibility of such damages or could have foreseen such damages. In any event, the total liability of Ice Lab Group Ltd and its affiliates, senior officers, employees, agents, suppliers, and licensors, if any, for all claims related to the service will be limited to greater than one dollar or the amount you paid Ice Lab Group Ltd in the one month period prior to the first event or occurrence giving rise to such liability. The foregoing limitation and exclusion of liability shall apply even if any remedy fails of its essential purpose.
+
+Indemnification
+
+You agree to indemnify and hold Ice Lab Group Ltd and its affiliates, directors, senior officers, employees, and agents harmless from any liability, loss, damages, or expenses, including reasonable attorneys’ fees, arising out of or relating to your Content, your use of the mobile application or service, or any intentional misconduct by you that causes third-party claims, suits, actions, disputes, or demands to be brought against them.
+
+Severability
+
+All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal invalid or unenforceable If any provision or portion of any provision of this Agreement is held to be illegal, invalid, or unenforceable by a court of competent jurisdiction, the remaining provisions or portions thereof shall constitute the parties agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.
+
+Dispute Resolution
+
+The formation, interpretation, and performance of this Agreement, and any disputes arising out of or related to it, shall be governed by the substantive and procedural laws of the British Virgin Islands, without regard to its conflict of laws rules or choice of law provisions and, to the extent applicable, the laws of the British Virgin Islands. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the state and federal courts located in the British Virgin Islands and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
+
+Assignment
+
+You may not assign, sublicense, delegate, transfer, or otherwise dispose of any of your rights or obligations under this Agreement without our prior written consent, which we may give or withhold in our sole discretion, and any such attempted assignment, sublicense, delegation, transfer, or disposition shall be null and void. We may freely assign all or any of our rights or obligations under this Agreement as part of a merger, acquisition, sale of assets, or by operation of law.
+
+Changes and Modifications
+
+We reserve the right, at our sole discretion, to modify or replace this Agreement or any policies or guidelines governing your use of the mobile application or service at any time. The updated version of this Agreement will be effective upon posting on the mobile application. Your continued use of the mobile application following the posting
+
+Acceptance of These Terms
+
+You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing or using the mobile application or Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the mobile application and its Services.
+
+Contact Us
+
+If you have any questions about this Agreement, please contact us.
+
+";
+"LocalPrivacyText" = "
+Privacy Policy (Summary)
+    
+We take your privacy very seriously. Here is a brief summary of the information we collect and how it is used:
+    
+IP address
+
+Stored in memory during connection.
+
+Deleted upon disconnection.
+
+Never stored on permanent storage such as disk, except in cases of abuse such as DoS attacks (where large numbers of VPN connections fail or abnormal data packets are sent), in which case the IP address, access time and received data may be stored in permanent firewall logs.Application version, operating system type and version not stored.
+
+Occasionally stored and collected to assist in resolving errors and issues with the service.
+
+The information stored when collected is absolutely not able to identify any specific user.
+
+Traffic logs
+
+Not collected or stored.
+
+DNS logs
+
+Not collected or stored.
+
+Email/support formStored to resolve support requests or feedback.upon request or after a 6-month archiving period.
+
+These support resolutions will be used as anonymous statistical data to improve our services.
+
+The full Privacy Policy is shown below. Please ensure that you have read and fully understood it before agreeing and continuing.
+
+Privacy Policy (Full)This Privacy Policy (“Policy”) describes how Ice Lab Group Ltd (“Ice Lab Group Ltd”, “we”, “us” or “our”) collects, protects and uses any personal identity information (“Personal Information”) that you (“User”, “you” or “your”) may provide us with in connection with the ice mobile application and any of its products or services (collectively, “Mobile Application” or “Service”). It also describes your choices regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the actions of companies that we do not own or control, or to individuals that we do not employ or manage.
+
+Collecting Personal InformationWe receive and store any information you intentionally provide us with when you fill out any online form or send us an email in the Mobile Application.
+
+Collecting Non-Personal InformationWhen you open the Mobile Application, our servers automatically receive information sent from your device. This data may include information such as your device’s IP address, application version, operating system type and version.During the normal operation of the Mobile Application, our servers process traffic. This data has neither been collected nor stored.Using and Processing Collected InformationAny information we collect from you may be used to improve our Mobile Application; improve customer service and respond to customer queries and emails; operate and run our Mobile Application and Service. Collected non-personal information is used solely to identify potential abuses and to establish statistical information about the use of the Mobile Application. Otherwise, this statistical information will not be aggregated in a way that identifies any specific user of the system.
+
+We may process Personal Information related to you if one of the following applies: (i) you have given your consent for one or more specific purposes. Please note that under some laws we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below.
+
+However, when the processing of Personal Information is subject to European data protection law, this is not applicable: (i) where it is necessary to provide information to perform an agreement and/or any pre-contractual obligations with you; (ii) where processing is necessary for compliance with a legal obligation to which you are subject; (iii) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in us; (iv) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party. In any case, we are willing to clarify the specific legal basisInformation Transmission and StorageDepending on your location, data transmission may involve transferring your information and storing it in a country outside of your own. You have the right to know the legal basis for transferring information to countries outside of the European Union or to any international organization established by two or more countries (such as the United Nations), as well as the security measures we take to protect your information. If any such transfer occurs, you can find out more information by referring to the relevant sections of this document or by contacting us using the information provided in the Contact section.
+
+User Rights
+
+You have the right to exercise certain rights with respect to the information we process about you. In particular, you have the right to: (i) withdraw your consent if you have previously agreed to the processing of your information; (ii) object to the processing of your information if it is based on legal bases other than consent; (iii) know whether we are processing your information, obtain disclosures regarding certain aspects of the processing, and obtain a copy of the information being processed; (iv) verify the accuracy of your information and request its update or correction; (v) in certain cases, restrict the processing of your information, in which case we will not use your information for any purpose other than storage; (vi) in certain cases, request the deletion of your personal information; and (vii) receive your information in a structured, commonly used, and machine-readable format and, if technically feasible, transmit it to another controller without any hindrance. This provision applies if your information is processed automatically and the processing is based on your consent, as part of a contract or your pre-contractual obligations.
+
+Right to Object to ProcessingIf personal information is processed for purposes of public interest, exercising official authority vested in us, or pursuing our legitimate interests, you may object to the processing of personal information by providing reasons specific to your particular situation. However, you should be aware that if your personal information is processed for direct marketing purposes, you may object to such processing at any time without providing any reasons. For more information on whether we process personal information for direct marketing purposes, please refer to the relevant sections of this document.
+
+How to Exercise These Rights
+
+Any requests to exercise user rights may be sent to the owner through the contact information provided in this document. These requests can be carried out free of charge, and the owner will address them as soon as possible and within one month at the latest.
+
+Children s Privacy
+
+We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our mobile application or service. We encourage parents and legal guardians to monitor their children s internet usage and to instruct their children to never provide personal information through our mobile application or service without their permission, in order to help enforce this policy. If you have reason to believe that a child under the age of 13 has provided personal information to us through our mobile application or service, please contact us. You must also be at least 16 years old to consent to the processing of your personal data in your country (in some countries, we may allow your parents or guardians to do this on your behalf).
+
+Links to Other Mobile Applications
+
+Our mobile application contains links to other mobile applications that we do not own or control. Please be aware that we are not responsible for the privacy practices of such other mobile applications or third parties. We encourage you to be aware when you leave our mobile application and to read the privacy statements of each and every mobile application that may collect personal information.
+
+Information Security
+
+We protect the information you provide on our computer servers in a controlled and secure environment to prevent unauthorized access, use, or disclosure. We maintain reasonable management, technical, and physical protection measures to prevent unauthorized access, use, modification, and disclosure of personal information under our control and custody. However, we cannot guarantee the security and privacy of information and data exchanged between you and our mobile application over the internet or wireless network due to security and privacy limitations beyond our control. You acknowledge that (1) the internet has security and privacy limitations beyond our control, (i) the security, integrity, and privacy of any and all information and data exchanged between you and our mobile application cannot be guaranteed, and (ii) despite our best efforts, third parties may still view or tamper with any such information and data during transmission.
+
+Data Breach
+
+If we become aware of any compromise to the security of our mobile application or any unauthorized disclosure of user personal information due to external activity (including but not limited to security breaches or fraud), we reserve the right to take reasonable and appropriate measures, including but not limited to investigation and reporting, and to notify law enforcement authorities and cooperate with them. If a data breach occurs, we will make reasonable efforts to notify affected individuals if we believe there is a risk of reasonable harm to users due to the data breach or if required by law. When we do so, we will post a notice in our mobile application.
+
+Legal Disclosure
+
+We may disclose any information we collect, use, or receive if required or permitted by law, such as in response to a subpoena or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, your safety, or the safety of others, investigate fraud, or respond to a government request.
+
+Changes and Modifications
+
+We reserve the right to modify this policy related to our mobile application or services at any time, effective upon posting an updated version of this policy in our mobile application. When we do so, we will revise the updated date at the bottom of this page. Continuing to use our mobile application after any such changes shall constitute your consent to such changes.
+
+Acceptance of this Policy
+
+You acknowledge that you have read and agree to all terms and conditions of this policy. By using our mobile application or services, you agree to be bound by this policy. If you do not agree to comply with the terms of this policy, you will not have the right to use or access our mobile application and its services.
+
+Contact Us
+
+If you have any questions about this policy, please contact us.
+
+";
+"LocalHelpQ1" = "1.Which platforms does ICE VPN support? What clients are available?";
+"LocalHelpA1" = "Currently, ICE VPN supports the Android and iOS platforms. Other platforms are under development, so stay tuned.";
+"LocalHelpQ2" = "2. Which node has better speed?";
+"LocalHelpA2" = "The network conditions in each region are different. If you need to log in to a website or game in a specific region, please select the corresponding node. Prioritize nodes with lower latency for faster connection speeds.";
+"LocalHelpQ3" = "3.Does ICE VPN have any traffic restrictions?";
+"LocalHelpA3" = "ICE VPN does not have any traffic restrictions. Please note that if your device is not connected to the internet, no VPN software will work.";
+"LocalHelpQ4" = "4.Is ICE VPN secure?";
+"LocalHelpA4" = "Yes, ICE VPN is secure. In terms of privacy and data protection, ICE VPN uses Spiral 256-bit encryption and zero-logging to ensure your data is protected. It also comes with a built-in ad blocker to prevent ads from interrupting your browsing experience.";
+"LocalHelpQ5" = "5.Creating a new account to download ICE VPN - Hong Kong";
+"LocalHelpA5" = "
+It only takes 1 minute to create your new exclusive \"Hong Kong Apple ID account\" and easily download ICE VPN or other overseas apps!
+Step 1:
+Go to the Apple website to \"Create your Apple ID\" - (https://appleid.apple.com/account).
+Step 2:
+Enter your personal information according to the prompt steps. Please note that when selecting the country and region option, please choose \"Hong Kong.\" In addition, please note two points:
+Email: You need to prepare a brand-new real email address that has never registered an Apple ID to receive the verification code.
+Phone number: Mobile verification in mainland China is supported.
+Step 3:
+After entering all the information, the page will jump to email verification. You need to check your email and enter the verification code here.
+Step 4:
+After completing the email verification, the page will jump to phone number verification. You need to check your registered phone number information and enter the verification code here.
+Step 5:
+After successfully entering the above information, the page will jump to the login and security page. Congratulations, your Hong Kong Apple ID has been successfully registered.
+Step 6:
+Open the App Store and click the icon in the upper right corner.
+Step 7:
+Select \"Sign out.\" Remember to scroll down to see the \"Sign out\" button.
+Step 8:
+Log in to your newly registered Hong Kong Apple ID in the App Store. After entering the ID and password, please click the \"Sign in\" button below, not the \"Done\" button in the upper right corner.
+Final step:
+When you find that the store content font has become traditional Chinese characters, it means that you have switched to the Hong Kong region.
+At this time, you can search for ICE VPN in the store and download it yourself.
+Tips:
+When you find that the store content font has become traditional Chinese characters, it means that you have switched to the Hong Kong region.
+When downloading software for the first time with your new Apple ID, you will be asked to set some information for your Apple ID. Please click \"Check,\" and then follow the prompts step by step. Note that you should not make any selections for the payment method, and other information can be filled in arbitrarily.
+After downloading ICE VPN, you can switch your Apple ID back to your original mainland China account at any time. Of course, you can also download various popular overseas apps in the Hong Kong store. ICE VPN supports all of them!
+If you encounter any problems during the download process, please feel free to contact the online customer service. We have a professional customer service team to help you solve any problems.
+";
+"LocalHelpQ6" = "6.Switch Apple ID region to download ICE VPN";
+"LocalHelpA6" = "
+It only takes 1 minute to switch your Apple ID region to Hong Kong and download ICE VPN. Please note that if you have subscription content in your account, please choose another method.
+Step 1:
+Log in to the Apple website https://appleid.apple.com and click \"Sign In\" to enter your Apple ID.
+Step 2:
+After logging in successfully, click on the \"Edit\" button next to the \"Account\" label.
+Step 3:
+On the account settings page, click on the \"Change Country or Region\" button.
+Step 4:
+On the Country or Region page, select \"Change Country or Region\". If prompted that you cannot change the country or region, please use another method to download.
+Step 5:
+You have now entered the payment information page. Please fill in the relevant information as described below:
+Country or Region: Hong Kong
+Payment Method: None
+Billing address: You can fill in your last name, first name, and street address as desired.
+Phone number: 852 + any 8 digits.
+Shipping address: You can fill in your last name, first name, and street address as desired, and select Hong Kong as the country or region.
+After filling in the information, click the \"Update\" button at the bottom. If the payment method cannot be changed to \"None\", please use another method to download.
+Step 6:
+Open the App Store and click the icon in the upper right corner.
+Step 7:
+Select the \"Sign Out\" button, and remember to scroll to the bottom of the page to see this button.
+Step 8:
+Re-login to the App Store with your Apple ID. After entering your ID and password, click the \"Sign In\" button at the bottom, not the \"Done\" button in the upper right corner.
+Last step:
+When you see the content in the store change to traditional Chinese, it means that you have successfully switched to the Hong Kong region.
+You can now search for ICE VPN and download it from the store.
+Reminder:
+• After downloading ICE VPN, you can also switch the region of your Apple ID back to China at any time. Of course, you can also download various popular overseas applications in the Hong Kong store, and ICE can support all of them!
+• If you encounter any problems during the download process, please feel free to contact our customer service. We have a professional team to help you solve any problems.
+";
+"LocalHelpQ7" = "7.iOS connection frequently disconnects issue";
+"LocalHelpA7" = "
+Reason: iOS devices have a 15M NE memory limit, and when connecting to VPN, the VPN connection will be disconnected if the memory limit exceeds 15M.
+Solution:
+It is recommended to upgrade the iOS system to iOS 15, which will increase the memory limit from 15M to 50M.
+Clear unused programs in the background, and turn off settings such as automatic syncing of photos and automatic updates from the app store.
+PS: The 15M NE memory limit for iOS is an Apple-imposed limit. You can search for \"iOS 15M NE memory limit\" on Google for more information.
+";
+"LocalHelpQ8" = "8.Poor performance/image loading failure/message display failure";
+"LocalHelpA8" = "
+Reason: 5G networks/signals around the world may be unstable, which directly leads to the device switching networks multiple times in a short period of time, resulting in the failure to load the required content and poor user experience.
+Solution:
+Turn off the 5G function of iPhone or iPad (this setting is not required when using Wi-Fi).
+Steps: System Settings → Cellular → Cellular Data Options → Voice & Data → 4G.
+";
+"LocalHelpQ9" = "9.iOS connection interface freezes";
+"LocalHelpA9" = "
+Solution: Close or reopen the button in System Settings → VPN.
+Issue with iOS 16 system connection prompt
+PS: The iOS 16 system itself has various bugs \uD83D\uDE2D.
+Solution:
+Restart the phone.
+Phone Settings → General → Transfer or Reset iPhone → Reset → Reset Network Settings.
+PS: After resetting the network, you need to re-enter the Wi-Fi password, so remember to record it.
+";
+"LocalHelpQ10" = "10.App not available";
+"LocalHelpA10" = "
+If you encounter this problem, please first check if the region of your logged-in Apple ID is mainland China, or if you have just switched regions, as Apple may not have completed information synchronization yet.
+Solution: Log out and then log in to your Hong Kong Apple ID again, and then proceed with the download.
+";
+"LocalHelpQ11" = "11.Verification failed";
+"LocalHelpA11" = "
+This problem may occur if you use a different Apple ID to download ICE VPN and to update the version, such as using Apple ID A to download ICE VPN and then using Apple ID B to update the version.
+Solution: Delete the old version and reinstall the new version.
+";
+"LocalHelpQ12" = "12.Cannot purchase this item now";
+"LocalHelpA12" = "
+This problem may be due to the existence of historical old versions of ICE VPN on your phone, which may conflict with the App Store version.
+Solution: Delete the old version and reinstall the new version.
+";
+"LocalHelpQ13" = "13.This item is no longer available/ICE VPN is no longer available";
+"LocalHelpA13" = "
+This problem may be due to the existence of historical old versions of ICE VPN on your phone, which may conflict with the App Store version.
+Solution: Delete the old version and reinstall the new version.
+";
+"LocalHelpQ14" = "14.Can download successfully, but cannot connect to any region";
+"LocalHelpA14" = "
+This problem may be because when you opened the app after downloading, you were prompted whether to add ICE VPN to your VPN settings, and you chose \"do not allow\".
+Solution: Completely exit ICE VPN first, then re-enter and choose to allow ICE VPN to be added to your VPN settings, and you can use the VPN normally.
+";

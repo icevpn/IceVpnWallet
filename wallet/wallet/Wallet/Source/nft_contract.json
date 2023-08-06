@@ -1,0 +1,93 @@
+{
+    "1" : [
+        {
+          "address": "",
+          "chainId": 1,
+          "decimals": 18,
+          "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/ETH.png",
+          "name": "ETH",
+          "symbol": "ETH",
+          "gameWallet": false
+        },{
+          "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "chainId": 1,
+          "decimals": 6,
+          "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/USDT.png",
+          "name": "Tether",
+          "symbol": "USDT",
+          "gameWallet": true
+        }
+    ],
+    "56" : [
+        {
+          "address": "",
+          "chainId": 56,
+          "decimals": 18,
+          "logo": "https://github.com/icevpn/ice-vpn-tokens/blob/main/BSC.png?raw=true",
+          "name": "BNB",
+          "symbol": "BNB",
+          "gameWallet": false
+        },{
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/USDT.png",
+        "name": "Tether",
+        "symbol": "USDT",
+        "gameWallet": true
+      }],
+    "137" : [
+        {
+          "address": "",
+          "chainId": 137,
+          "decimals": 18,
+          "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/blob/main/Polygon.png",
+          "name": "Polygon(Matic)",
+          "symbol": "MATIC",
+          "gameWallet": false
+        },{
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "chainId": 137,
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/USDT.png",
+        "name": "Tether",
+        "symbol": "USDT",
+        "gameWallet": true
+      }],
+    "42161" : [
+        {
+          "address": "",
+          "chainId": 42161,
+          "decimals": 18,
+          "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/ETH.png",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "gameWallet": false
+        },{
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "chainId": 42161,
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/USDT.png",
+        "name": "Tether",
+        "symbol": "USDT",
+        "gameWallet": true
+      }],
+    "10" : [
+        {
+          "address": "",
+          "chainId": 10,
+          "decimals": 18,
+          "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/ETH.png",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "gameWallet": false
+        },{
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "chainId": 10,
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/icevpn/ice-vpn-tokens/main/USDT.png",
+        "name": "Tether",
+        "symbol": "USDT",
+        "gameWallet": true
+      }]
+}

@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'wallet' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  ## wallet
+  pod 'web3swift', '~> 3.1.2'
+  pod 'TrustWalletCore' , '~> 3.1.35'
+  # tool
+  pod 'KeychainAccess', '~> 4.2.2'
+  pod 'SnapKit', '~> 5.6.0'
+  pod 'Alamofire', '~> 5.7.0'
+  pod 'HandyJSON', '~> 5.0.4-beta'
+  pod 'GetRouter', '1.0.5'
+  pod 'SDWebImage', '~> 5.15.8'
+  pod 'EFQRCode', '~> 6.2.1'
+  pod 'JFPopup', '1.5.3'
+end
+
+
+post_install do |installer|
+    installer.generated_projects.each do |project|
+          project.targets.each do |target|
+              target.build_configurations.each do |config|
+                  config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+               end
+          end
+   end
+end
